@@ -1,0 +1,13 @@
+
+How many transactions took place between the years 2011 and 2012?
+Count(*)
+167
+
+How much money did WSDA Music make during the same period?
+Sum(total)=1947.97
+
+Which customer made the highest purchase?
+John Doeein
+
+Who do you conclude is our primary person of interest?
+Jane Peacock
