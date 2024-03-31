@@ -5,8 +5,8 @@ LinkedIn Learning : SQL Essential Learning Project
 This repository contains the SQL project "Missing Money Matters," which was completed as part of the LinkedIn certificate course "SQL Essential Learning" by Walter Shields. The project involves analyzing financial data for WSDA Music to identify discrepancies in the company's financial records and pinpoint potential suspects responsible for the financial irregularities.
 
 ## Branches and Files
-- **Branches:** There are two branches in this repository, `main` and `master`.
-- **Files in Master Branch:** In the `master` branch, you will find two files:
+- **Branches:** There is one branch in this repository, `main`
+- **Files in the Branch:** In the `main` branch, you will find two files:
   - `.sql` file: This file contains the SQL code showing how the project was completed.
   - `.txt` file: This file displays the ultimate result of the project.
 
